@@ -15,11 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.Superdigital.Crosscut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.Superdigital.Presentation.WEBAPI", "Teste.Superdigital.Presentation.WEBAPI\Teste.Superdigital.Presentation.WEBAPI.csproj", "{2312BA49-66FF-42F5-AD7D-C7461A5E42E9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questoes", "Questoes", "{C514A60B-2AC8-4109-A63E-EF7E7956F12D}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\famcr\OneDrive\Área de Trabalho\Teste desenvolvedor Backend Superdigital.docx = C:\Users\famcr\OneDrive\Área de Trabalho\Teste desenvolvedor Backend Superdigital.docx
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
